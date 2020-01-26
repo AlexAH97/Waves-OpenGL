@@ -1,0 +1,42 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(9): warning C4603: 'GLEW_STATIC': macro is not defined or definition is different after precompiled header use
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(9): message : Add macro to precompiled header instead of defining here
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(19): message : use of precompiled header
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(26,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(26,8): error C2146: syntax error: missing ';' before identifier 'shaderProgram'
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(28,32): error C2065: 'GLFWwindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(28,44): error C2065: 'window': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(28,56): error C2062: type 'int' unexpected
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(29,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(29,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(32,16): error C2065: 'GLFWwindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(32,28): error C2065: 'window': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(32,34): error C2182: 'inputMode': illegal use of type 'void'
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(32,36): error C2448: 'inputMode': function-style initializer appears to be a function definition
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(37,2): error C3861: 'glfwInit': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(38,17): error C2065: 'GLFW_CONTEXT_VERSION_MAJOR': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(38,2): error C3861: 'glfwWindowHint': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(39,17): error C2065: 'GLFW_CONTEXT_VERSION_MINOR': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(39,2): error C3861: 'glfwWindowHint': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(40,17): error C2065: 'GLFW_OPENGL_PROFILE': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(40,38): error C2065: 'GLFW_OPENGL_CORE_PROFILE': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(40,2): error C3861: 'glfwWindowHint': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(42,2): error C2065: 'GLFWwindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(42,14): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(42,25): error C3861: 'glfwCreateWindow': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(43,6): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(47,25): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(47,2): error C3861: 'glfwMakeContextCurrent': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(48,33): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(48,43): error C2065: 'framebuffer_size_callback': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(48,2): error C3861: 'glfwSetFramebufferSizeCallback': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(49,32): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(49,10): error C3861: 'glfwWindowShouldClose': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(51,13): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(53,3): error C3861: 'glClearColor': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(54,11): error C2065: 'GL_COLOR_BUFFER_BIT': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(54,3): error C3861: 'glClear': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(56,19): error C2065: 'glWindow': undeclared identifier
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(56,3): error C3861: 'glfwSwapBuffers': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(57,3): error C3861: 'glfwPollEvents': identifier not found
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(60,2): error C3861: 'glfwTerminate': identifier not found

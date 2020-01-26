@@ -1,0 +1,4 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(54,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(215,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL_4_Application_VS2015.vcxproj -> C:\Users\Alexandru\Desktop\OpenGL\OpenGL_4_Application_VS2015\Debug\OpenGL_4_Application_VS2015.exe
